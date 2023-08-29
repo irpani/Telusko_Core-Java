@@ -1,6 +1,6 @@
 package Language_Fundamentals.Loops;
 
-public class For_Loop {
+public class For_Loop_3 {
 
 	public static void main(String[] args) {
 		for (int i = 0; i <= 4; i++) {

@@ -1,6 +1,6 @@
 package Language_Fundamentals.Loops;
 
-public class DoWhileLoop {
+public class DoWhileLoop_2 {
 
 	public static void main(String[] args) {
 		int i = 1;

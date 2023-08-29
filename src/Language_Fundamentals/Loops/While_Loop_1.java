@@ -1,6 +1,6 @@
 package Language_Fundamentals.Loops;
 
-public class While_Loop {
+public class While_Loop_1 {
 
 	public static void main(String[] args) {
 		int i = 1;

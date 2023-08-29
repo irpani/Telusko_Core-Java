@@ -6,7 +6,7 @@ class Student1 {
 	int marks;
 }
 
-public class EnhancedForLoop {
+public class EnhancedForLoop_4 {
 	public static void main(String[] args) {
 		Student1 s1 = new Student1();
 		s1.rollno = 1;

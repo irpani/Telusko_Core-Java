@@ -1,6 +1,6 @@
 package Language_Fundamentals.ifSwitchTernary;
 
-public class Switch_Statement {
+public class Switch_Statement_4 {
 
 	public static void main(String[] args) {
 		// int n=1;

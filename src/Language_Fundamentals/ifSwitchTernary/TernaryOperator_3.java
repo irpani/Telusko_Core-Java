@@ -1,6 +1,6 @@
 package Language_Fundamentals.ifSwitchTernary;
 
-public class TernaryOperator {
+public class TernaryOperator_3 {
 
 	public static void main(String[] args) {
 		// int n=4;

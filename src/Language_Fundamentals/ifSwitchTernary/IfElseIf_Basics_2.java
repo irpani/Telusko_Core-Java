@@ -1,6 +1,6 @@
 package Language_Fundamentals.ifSwitchTernary;
 
-public class IfElseIf_Basics {
+public class IfElseIf_Basics_2 {
 
 	public static void main(String[] args) {
 		// int x=8;
