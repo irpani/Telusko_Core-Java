@@ -1,6 +1,6 @@
 package Language_Fundamentals.Opeators;
 
-public class LogicalOperators {
+public class LogicalOperators_3 {
 
 	public static void main(String[] args) {
 		int x = 7;

@@ -3,9 +3,9 @@ package Language_Fundamentals.Opeators;
 //(1)Arithmatic Operators                   +  -  *  /  %
 
 //(1)(a).Assignment Operators               =  +=  -=  *=  /=  %=
-//(1)(b).Incremeent & Decrement Operators   ++   --
+//(1)(b).Unary Operator' Incremeent & Decrement Operators   ++   --
 
-public class AssignmentOperator {
+public class AssignmentOperator_1 {
 
 	public static void main(String[] args) {
 		/**

@@ -1,6 +1,6 @@
 package Language_Fundamentals.Opeators;
 
-public class RelationalOperators {
+public class RelationalOperators_2 {
 
 	public static void main(String[] args) {
 		int x = 6;
