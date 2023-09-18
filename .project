@@ -14,4 +14,41 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Language_Fundamentals/Precedeny &amp; Associativity.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Precedeny &amp; Associativity.png</location>
+		</link>
+		<link>
+			<name>src/innerclasses/Anonymous Inner Class.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Anonymous Inner Class.png</location>
+		</link>
+		<link>
+			<name>src/java8Examples/L1.Removed This Curly Brackets.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Removed This Curly Brackets.png</location>
+		</link>
+		<link>
+			<name>src/java8Examples/L2.we have to Define this Particular Blck.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/L2.we have to Define this Particular Blck.png</location>
+		</link>
+		<link>
+			<name>src/java8Examples/L3.This Arrow is Called Lamda Expression.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/L3.This Arrow is Called Lamda Expression.png</location>
+		</link>
+		<link>
+			<name>src/java8Examples/L4.Above method Convert into simple 2 Lines.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/L4.Above method Convert into simple 2 Lines.png</location>
+		</link>
+		<link>
+			<name>src/java8Examples/L5.Lamda Expe code in 2 Lines.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/L5.Lamda Expe code in 2 Lines.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>

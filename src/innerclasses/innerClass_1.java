@@ -1,5 +1,6 @@
 package innerclasses;
 
+//	Ex: Employeee  and their inner class is Salary
 class A {
 	int age;
 

@@ -5,6 +5,7 @@ class H {
 		System.out.println("in A show");
 	}
 }
+
 // class B extends A
 // {
 // public void show()
@@ -12,7 +13,7 @@ class H {
 // System.out.println("in B Show");
 // }
 // }
-
+// In Case Of Multi Threding we can use this Anonymous Inner class
 public class AnonymousInnerClass_2 {
 	public static void main(String[] args) {
 

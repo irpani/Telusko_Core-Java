@@ -1,5 +1,6 @@
 package Oops.Interface;
 
+//From Java 8 Lamda Expression Comes into Picture
 @Deprecated
 class F {
 	public void showTheDataWhichBelongsToThisClass() {

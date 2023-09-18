@@ -3,6 +3,11 @@ package Streams;
 import java.util.Arrays;
 import java.util.List;
 
+//Stream Api Comes into Picture in 1.8 ,It's generally used for Collection Of Objects
+//Before 1.8 we calculate And store it in Dummy DataStructure then we will do Another operatio nto Store
+//When Streams Comes into Picture Each And Every thing we will do in a Single Line not Storing the Intermediate Results into certai
+//List Of Objects So Code is Concise and readable Code 
+
 public class StreamApi {
 	public static void main(String[] args) {
 
