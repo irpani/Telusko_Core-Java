@@ -4,29 +4,24 @@ import java.util.Collection;
 import java.util.Iterator;
 import java.util.TreeSet;
 
-/*
-import java.util.List;
-import java.util.ArrayList;
+/*public class Demo {
+	public static void main(String[] args) {
 
-public class Demo {
-    public static void main(String[] args){   
-    	
-    	List<Integer> nums=new ArrayList<Integer>();
-    	nums.add(6);
-    	nums.add(5);
-    	nums.add(8);
-    	nums.add(2);
-    	nums.add(6);
-    	//nums.add("5");
-    	
-    	for(Object n:nums)
-    	{
-    		int num=(Integer)n;
-    		System.out.println(num+2);
-    	}
-    }
-}
-*/
+		List<Integer> nums = new ArrayList<Integer>();
+		nums.add(6);
+		nums.add(5);
+		nums.add(8);
+		nums.add(2);
+		nums.add(6);
+		// nums.add("5");
+
+		for (Object n : nums) {
+			int num = (Integer) n;
+			System.out.println(num + 2);
+		}
+	}
+}*/
+
 public class SetPractice {
 	public static void main(String[] args) {
 

@@ -14,6 +14,7 @@ public class ArrayListPractice {
 		nums.add(5);
 		nums.add(8);
 		nums.add(2);
+		nums.add(10);
 		// nums.add("5");
 		// My Requirement here I need to Add Element between 5 and 8
 		// In this Case List Interface Coming in to Picture
