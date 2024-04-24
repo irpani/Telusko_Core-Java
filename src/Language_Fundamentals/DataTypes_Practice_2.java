@@ -6,7 +6,6 @@ public class DataTypes_Practice_2 {
 		int num1 = 9;
 		byte by = 127;
 		short sh = 558;
-		long l = 5854l;
 
 		float f = 5.8f;
 		double d = 5.8;
@@ -14,7 +13,8 @@ public class DataTypes_Practice_2 {
 		char c = 'k';
 
 		boolean b = true;
-
+		long l = 5854l;
+		System.out.println(num1 + " " + by + " " + sh + " " + l + " " + f + " " + d + " " + c + " " + b);
 	}
 
 }
