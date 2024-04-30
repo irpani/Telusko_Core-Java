@@ -6,7 +6,8 @@ import java.util.List;
 public class ArrayListPractice {
 
 	public static void main(String[] args) {
-		// Collection Methods 19 I Cann't add Based On Index
+		// Collection Methods 19 I Cann't add Based On Index ,for Index we have some
+		// other Methods
 		// Collection<Integer> nums= new ArrayList<Integer>();
 		// Collection nums=new ArrayList();
 		List<Integer> nums = new ArrayList<Integer>();
