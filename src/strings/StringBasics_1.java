@@ -8,6 +8,7 @@ public class StringBasics_1 {
 		System.out.println(name.length());
 		System.out.println("hello " + name);
 		System.out.println(name.concat("reddy"));
+		System.out.println(name.getClass());
 		// String name="Navin";
 
 	}
