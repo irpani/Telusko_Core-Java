@@ -1,8 +1,8 @@
 package wrappers;
 
 /******
- * Wrapper Classes int -> Integer char -> Character double ->Double
- * 
+ * Wrapper Classes int -> Integer char -> Character double ->Double java is 100%
+ * object oriented the reason is we have Wrapper classes as well
  * 
  * 
  */
