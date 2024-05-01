@@ -9,6 +9,7 @@ public class StringBasics_1 {
 		System.out.println("hello " + name);
 		System.out.println(name.concat("reddy"));
 		System.out.println(name.getClass());
+		System.out.println(name.getBytes());
 		// String name="Navin";
 
 	}
