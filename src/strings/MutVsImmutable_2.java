@@ -7,9 +7,9 @@ public class MutVsImmutable_2 {
 		System.out.println("hello" + name);
 
 		String s1 = "Navin";
-		String s2 = "Navin";
+		String s2 = "Naveen";
 
-		System.out.println(s1 == s2);
+		System.out.println("Comaring 2 Strings :" + (s1 == s2));
 
 	}
 }
