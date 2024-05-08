@@ -24,6 +24,11 @@ public class StaticVariable_7 {
 		Mobile obj2 = new Mobile();
 		obj2.brand = "Samsung";
 		obj2.price = 1700;
+
+		Mobile obj3 = new Mobile();
+		obj2.brand = "Dell";
+		obj2.price = 1900;
+
 		// obj2.name="SmartPhone";
 		Mobile.name = "SmartPhone";
 
