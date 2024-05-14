@@ -2,6 +2,7 @@ package strings;
 
 public class StringBasics_1 {
 	public static void main(String[] args) {
+		// All Below String Methods
 		String name = new String();
 		String s2 = "irfan";
 		System.out.println(name);
