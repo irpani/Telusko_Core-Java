@@ -5,6 +5,7 @@ public class StringBasics_1 {
 		// All Below String Methods
 		String name = new String();
 		String s2 = "irfan";
+		String s3 = "pathan";
 		System.out.println(name);
 		System.out.println(name.hashCode());
 		System.out.println(name.length());
