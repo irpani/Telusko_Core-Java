@@ -6,6 +6,7 @@ public class StringBasics_1 {
 		String name = new String();
 		String s2 = "irfan";
 		String s3 = "pathan";
+		String s4 = "Ayaan";
 		System.out.println(name);
 		System.out.println(name.hashCode());
 		System.out.println(name.length());
@@ -14,6 +15,12 @@ public class StringBasics_1 {
 		System.out.println(name.getClass());
 		System.out.println(name.getBytes());
 		System.out.println(name.equals(s2));
+		if (s2.equals(s3)) {
+			System.out.println("Both String are Equa");
+
+		} else {
+			System.out.println("Strings are not Equal");
+		}
 		// String name="Navin";
 
 	}
