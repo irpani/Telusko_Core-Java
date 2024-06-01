@@ -2,7 +2,7 @@ package strings;
 
 public class StringBasics_1 {
 	public static void main(String[] args) {
-		// All Below String Methods
+		// All Below String Methods , Created Object for a String
 		String name = new String();
 		String s2 = "irfan";
 		String s3 = "pathan";
