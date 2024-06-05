@@ -1,5 +1,6 @@
 package innerclasses;
 
+//Anonymous innrer class helps us for Lamda Expression
 class H {
 	public void show() {
 		System.out.println("in A show");
