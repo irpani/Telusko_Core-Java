@@ -7,6 +7,7 @@ class A {
 	}
 }
 
+// Inheritance Concept
 class B extends A {
 	@Override
 	// public void showTheDataWhichBelongToThisClass()
