@@ -24,7 +24,7 @@ public class ArrayListPractice {
 		System.out.println(nums.get(2));
 
 		System.out.println(nums.indexOf(2));
-
+		// Enhanced FoR lOOP
 		// for(int n:nums)
 		// {
 		// System.out.println(nums);
