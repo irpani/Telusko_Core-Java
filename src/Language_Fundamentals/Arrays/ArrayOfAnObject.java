@@ -1,6 +1,7 @@
 package Language_Fundamentals.Arrays;
 
 class Student {
+	// Global Variables
 	int rollno;
 	String name;
 	int marks;
