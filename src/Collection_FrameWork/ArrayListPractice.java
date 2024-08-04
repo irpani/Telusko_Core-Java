@@ -11,6 +11,7 @@ public class ArrayListPractice {
 		// other Methods
 		// Collection<Integer> nums= new ArrayList<Integer>();
 		// Collection nums=new ArrayList();
+		// Crate the Object for Arraylist
 		List<Integer> nums = new ArrayList<Integer>();
 		nums.add(6);
 		nums.add(5);
