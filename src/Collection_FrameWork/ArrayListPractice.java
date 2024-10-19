@@ -6,6 +6,7 @@ import java.util.List;
 public class ArrayListPractice {
 
 	public static void main(String[] args) {
+		//Array_list Practice
 		// New Changes Added in in this Programme
 		// Collection Methods 19 I Cann't add Based On Index ,for Index we have some
 		// other Methods
@@ -19,6 +20,7 @@ public class ArrayListPractice {
 		nums.add(2);
 		nums.add(10);
 		nums.add(20);
+		nums.add(80);
 		// nums.add("5");
 		// My Requirement here I need to Add Element between 5 and 8 Based on Index
 		// In this Case List Interface Coming in to Picture
