@@ -1,7 +1,7 @@
 package Language_Fundamentals;
 
 public class DataTypes_Practice_2 {
-
+   //DataTypes Vary Based On Type & Size
 	public static void main(String[] args) {
 		int num1 = 9;
 		byte by = 127;
