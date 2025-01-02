@@ -6,7 +6,9 @@ public class DataTypes_Practice_2 {
 		int num1 = 9;
 		byte by = 127;
 		short sh = 558;
-
+         int res =num1+by;
+         System.out.println(res);
+         
 		float f = 5.8f;
 		double d = 5.8;
 

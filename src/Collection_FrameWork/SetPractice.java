@@ -32,7 +32,7 @@ public class SetPractice {
 		nums.add(54);
 		nums.add(82);
 		nums.add(21);
-
+		nums.add(12);
 		// nums.add("5");
 
 		Iterator<Integer> values = nums.iterator();
