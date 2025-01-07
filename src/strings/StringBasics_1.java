@@ -7,6 +7,7 @@ public class StringBasics_1 {
 		String s2 = "irfan";
 		String s3 = "pathan";
 		String s4 = "Ayaan";
+		String s5 = "Afsheen";
 		System.out.println(name);
 		System.out.println(name.hashCode());
 		System.out.println(name.length());
