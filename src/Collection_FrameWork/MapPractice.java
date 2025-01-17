@@ -19,13 +19,8 @@ public class MapPractice {
         System.out.println(students.values());   //[56, 92, 67, 45]
         System.out.println(students.entrySet()); //[Navin=56, Kiran=92, Sushil=67, Harsh=45]
 
-        for (int i = 0; i < students.size(); i++) {
-			     
-        	System.out.println(students.values());
-	}
-		
-		
-		
+        
+	
 		for (String key : students.keySet()) {
 			System.out.println(key + ":" + students.get(key));
 		}
