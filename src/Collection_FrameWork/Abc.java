@@ -4,7 +4,7 @@ public class Abc {
 
 	public static void main(String[] args) {
 		
-          int day = 1;
+          int day = 2;
           
           
           switch (day) {
